@@ -24,8 +24,8 @@
 |      VS Code       | 前端开发                               |                                |      |
 |       Downie       | 下载视频                               |                                |      |
 | Apple Configurator |                                        |                                |      |
-|                    |                                        |                                |      |
-|                    |                                        |                                |      |
+|       Iterm2       |                                        |                                |      |
+|      Ohmyzsh       |                                        |                                |      |
 |                    |                                        |                                |      |
 |                    |                                        |                                |      |
 |                    |                                        |                                |      |
