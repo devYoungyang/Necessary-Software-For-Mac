@@ -26,7 +26,7 @@
 | Apple Configurator |                                        |                                |      |
 |       Iterm2       |                                        |                                |      |
 |      Ohmyzsh       |                                        |                                |      |
-|                    |                                        |                                |      |
+|        Homebrew    |                                        |                                |      |
 |                    |                                        |                                |      |
 |                    |                                        |                                |      |
 |                    |                                        |                                |      |
